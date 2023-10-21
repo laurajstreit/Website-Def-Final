@@ -17,7 +17,7 @@ function Nav () {
         <ul className="flex gap-x-6 text-white text-sm">
               <li>test</li>
               <li>test</li>
-              <li>test</li>
+              <li>test2</li>
           </ul>
       </div>
     </nav>
