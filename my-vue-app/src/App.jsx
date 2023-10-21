@@ -16,7 +16,7 @@ function Nav () {
       <div className="flex flex-row-reverse">
         <ul className="flex gap-x-6 text-white text-sm">
               <li>test</li>
-              <li>test</li>
+              <li>test3</li>
               <li>test2</li>
           </ul>
       </div>
