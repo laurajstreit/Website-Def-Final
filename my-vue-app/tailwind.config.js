@@ -6,6 +6,9 @@ export default {
     "./src/main.jsx",
   ],
   theme: {
+    colors: {
+      lilipurple: '#55649b',
+    },
     extend: {},
   },
   plugins: [],
