@@ -12,15 +12,15 @@ function Nav () {
     <nav class="text-white w-full flex h-20 px-10 bg-lilipurple sticky top-0 drop-shadow-sm items-center gap-x-6">
       <div className="text-4xl font-black block">
         <a href="/">
-        <img class="w-11" src="/src/assets/lsLogo.svg"></img>
+        <img class="w-11 opacity-100 hover:transition-opacity hover:opacity-70 ease-in-out duration-200" src="/src/assets/lsLogo.svg"></img>
         </a>
       </div>
       <FlexContainer></FlexContainer>
       <div className="flex flex-row-reverse">
         <ul className="flex gap-x-6 text-white text-sm">
-              <li>About</li>
-              <li>Work</li>
-              <li>Contact</li>
+              <li className='opacity-100 hover:transition-opacity hover:opacity-70 ease-in-out duration-200'>About</li>
+              <li className='opacity-100 hover:transition-opacity hover:opacity-70 ease-in-out duration-200'>Work</li>
+              <li className='opacity-100 hover:transition-opacity hover:opacity-70 ease-in-out duration-200'>Contact</li>
           </ul>
       </div>
     </nav>
