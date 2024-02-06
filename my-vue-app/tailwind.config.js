@@ -4,6 +4,10 @@ export default {
     "./index.html",
     "./src/App.jsx",
     "./src/main.jsx",
+    "./components/footer.jsx",
+    "./components/gallery.jsx",
+    "./components/intro.jsx",
+    "./components/nav.jsx",
   ],
   theme: {
     colors: {
