@@ -7,6 +7,7 @@ import Intro from '../components/intro';
 import Gallery from '../components/gallery';
 import React from 'react';
 
+
 function App () {
   return (
       <>
